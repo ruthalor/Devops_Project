@@ -79,7 +79,7 @@ Once the installation is finished, you can run the following command to confirm 
 
 To test your setup with a PHP script, it’s best to set up a proper Apache Virtual Host to hold your website’s files and folders. Virtual host allows you to have multiple websites located on a single machine and users of the websites will not even notice it.
 
-![Virtual host](./images/VirtualHost%20(1).png)
+![Virtual host(1)](./images/VirtualHost%20(1).png)
 
 
 ### CREATING A VIRTUAL HOST/WEB DOMAIN FOR YOUR WEBSITE USING APACHE
