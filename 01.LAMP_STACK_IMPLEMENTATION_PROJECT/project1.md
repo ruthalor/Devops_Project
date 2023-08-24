@@ -1,4 +1,4 @@
-# DEPLOYING A LAMB STACK PROJECT IN AWS
+# DEPLOYING A LAMP STACK PROJECT IN AWS
 
 A LAMP stack is a bundle of four different software technologies that developers use to build websites and web applications. LAMP is an acronym for the operating system, Linux; the web server, Apache; the database server, MySQL; and the programming language, PHP
 
