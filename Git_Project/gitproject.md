@@ -28,7 +28,7 @@ To change into an exiting or old branch, use the command `git checkout <branch-n
 Git branch can be deleted with the command `git branch -d <branch_name>`
 ![](./images/06%20git%20branch%20deleted.png)
 
-###Remote Repositories
+### Remote Repositories
 
 To do this, you must have a preexisting github account or you create one on  <a href="https://www.github.com">Github.com</a>
 
