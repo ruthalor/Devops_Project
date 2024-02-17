@@ -1,0 +1,1 @@
+In this project I would be demonstrating a basic client-server using MySQL Relational Database Management System (RDBMS)
