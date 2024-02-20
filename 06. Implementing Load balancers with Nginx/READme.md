@@ -3,6 +3,10 @@
 
 Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool. In this context, Nginx serves as our load balancer. 
 
+In other words, 
+
+Load balancing is the method of distributing network traffic equally across a pool of resources that support an application. Modern applications must process millions of users simultaneously and return the correct text, videos, images, and other data to each user in a fast and reliable manner. To handle such high volumes of traffic, most applications have many resource servers with duplicate data between them. A load balancer is a device that sits between the user and the server group and acts as an invisible facilitator, ensuring that all resource servers are used equally and in this context, Nginx serves as the load balancer.
+
 
 
 # Setting Up a Basic Load Balancer
